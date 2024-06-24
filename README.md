@@ -1,4 +1,4 @@
-### <div align="center">Hi_ my name is Long </div>  
+### <div align="center">Hi_</div>  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
