@@ -1,7 +1,3 @@
-<div align="center">
-<img src="/Banner.png" align="center" style="width: 100%" />
-</div>  
-
 ### <div align="center">Hi_ my name is Long </div>  
 
   
