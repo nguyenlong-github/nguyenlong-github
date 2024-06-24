@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/svg/thutrang912.svg" align="center" style="width: 100%" />
+<img src="/Banner.png" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Hi ✌️ I'm LONG</div>  
