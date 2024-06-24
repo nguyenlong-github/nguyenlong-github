@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/Thêm tiêu đề.png" align="center" style="width: 100%" />
+<img src="/Banner.png" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Hi_ my name is Long </div>  
