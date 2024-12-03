@@ -1,4 +1,4 @@
 ### It's nice to see you again 
-Have a sip of water, and then let's get started 🧃
+Have a sip of juice 🧃, and then let's get started 
 
 
