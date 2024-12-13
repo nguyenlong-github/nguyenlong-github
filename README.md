@@ -16,10 +16,15 @@ Have a sip of juice 🧃 and then let's get started
 </span>
 
 BOB: <em>* sigh~ *</em>
-<a href="https://github.com/nguyenlong-github/nguyenlong-github/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenlong-github&repo=nguyenlong-github&theme=radical" />
-</a>    
+<div>
+  <a href="https://github.com/nguyenlong-github/nguyenlong-github/">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenlong-github&repo=nguyenlong-github&theme=radical" />
+  </a>
+  <a href="https://github.com/nguyenlong-github/fityourstyle">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenlong-github&repo=fityourstyle&theme=radical" />
+  </a>
+</div>
+
 
 <!--
 ![nguyenlong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenlong-github&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
